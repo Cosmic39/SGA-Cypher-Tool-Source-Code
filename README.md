@@ -1,5 +1,13 @@
 # 🧙 SGA Cipher Tool (Source Code)
 
+A standalone **desktop application** for encrypting and decrypting messages using a mix of:
+
+* **Caesar Cipher** (shift-based encryption)
+* **Minecraft’s Standard Galactic Alphabet (SGA)** with a seed-based map
+
+Built by **Cosmic**, packaged into a portable `.exe`.
+No Python installation required — just download and run.
+
 ---
 
 ## 📂 Project Structure

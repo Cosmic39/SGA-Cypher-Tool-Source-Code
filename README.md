@@ -1,9 +1,5 @@
 # 🧙 SGA Cipher Tool (Source Code)
 
-⚠️ **Private Repository — Not Public**
-This repo contains the **source code** for the Minecraft SGA Cipher Tool.
-A public version with only the binary release (`SGA-Cipher.exe`) is hosted separately.
-
 ---
 
 ## 📂 Project Structure

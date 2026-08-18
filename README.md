@@ -1,4 +1,4 @@
-# 🧙 Minecraft SGA Cipher Tool (Source Code)
+# 🧙 SGA Cipher Tool (Source Code)
 
 ⚠️ **Private Repository — Not Public**
 This repo contains the **source code** for the Minecraft SGA Cipher Tool.
